@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="work\DoWork.cs" />
+    <Compile Include="work\PiCalculator.cs" />
+    <Compile Include="work\Utility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
